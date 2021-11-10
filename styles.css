@@ -1,16 +1,19 @@
 h1 {
-    color: blue;
+    color: rgb(14, 14, 14);
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
 
 form {
     text-align: center;
-    size: 300px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
 }
 
 p {
     color: rgb(255, 0, 0);
     text-align: center;
-    font-size: 50px;
+    font-size: 25px;
     font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
 }
